@@ -31,6 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/novidadespikachu/kodi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](scr=https://user-images.githubusercontent.com/499192/57450172-1a955f80-725e-11e9-9fed-267179bdab15.gif)
 
 ### Support or Contact
 
