@@ -6,7 +6,7 @@
 
 <table style="width:100%">
   <tr>
-    <th><center> *Wasp Network: Rede de Espiões (2020) - 1080p - Dublado* </center></th>
+    <th><center><strong> *Wasp Network: Rede de Espiões (2020) - 1080p - Dublado* </strong></center></th>
   </tr>
   <tr>
     <td><img src="https://image.tmdb.org/t/p/original/72r4uAQGsa8KEv0DB2TpSu31lEB.jpg" alt="Italian Trulli"></td>
