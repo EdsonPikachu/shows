@@ -9,18 +9,12 @@ ____
 Espiões cubanos se infiltram em grupos de exilados para deter o terrorismo contra Cuba. O preço a pagar, porém, é alto. (MrPikachu)|
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th><center> *Wasp Network: Rede de Espiões (2020) - 1080p - Dublado* </center></th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>![Image of Yaktocat](https://image.tmdb.org/t/p/original/72r4uAQGsa8KEv0DB2TpSu31lEB.jpg)</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Espiões cubanos se infiltram em grupos de exilados para deter o terrorismo contra Cuba. O preço a pagar, porém, é alto. (MrPikachu)</td>
   </tr>
 </table>
