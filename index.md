@@ -4,14 +4,6 @@
 
 ## sábado, 20 de junho de 2020
 
-<table style="width:100%">
-  <tr>
-    <th><center><strong> *Wasp Network: Rede de Espiões (2020) - 1080p - Dublado* </strong></center></th>
-  </tr>
-  <tr>
-    <td><img src="https://image.tmdb.org/t/p/original/72r4uAQGsa8KEv0DB2TpSu31lEB.jpg" alt="Italian Trulli"></td>
-  </tr>
-  <tr>
-    <td>Espiões cubanos se infiltram em grupos de exilados para deter o terrorismo contra Cuba. O preço a pagar, porém, é alto. (MrPikachu)</td>
-  </tr>
-</table>
+<table style="width:100%"><tr><th><center><b> *Wasp Network: Rede de Espiões (2020) - 1080p - Dublado* </b></center></th></tr>
+<tr><td><img src="https://image.tmdb.org/t/p/original/72r4uAQGsa8KEv0DB2TpSu31lEB.jpg" alt="Italian Trulli"></td></tr>
+<tr><td>Espiões cubanos se infiltram em grupos de exilados para deter o terrorismo contra Cuba. O preço a pagar, porém, é alto. (MrPikachu)</td></tr></table>
