@@ -29,12 +29,12 @@
 
 
 <table style="width:100%"><tr><th><center><b> Só Pra Contrariar 25ANOS - 1080p - Dublado </b></center></th></tr>
-<tr><td><div align="center"><img src="https://ogimg.infoglobo.com.br/in/23982539-6cf-8b9/FT1086A/652/xana-titas.jpg.pagespeed.ic.txlS6zjNZ5.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><div align="center"><img src="https://conteudo.imguol.com.br/2013/04/22/22abr2013---alexandre-pires-volta-a-tocar-com-o-so-pra-contrariar-na-turne-comemorativa-aos-25-anos-da-banda-1366647233047_1920x1080.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Só pra Contrariar 25 Anos - Ao Vivo em Porto Alegre é um álbum ao vivo do grupo de pagode Só pra Contrariar, lançado em 2013 pela Sony Music</justify></td></tr></table>
 
 
 <table style="width:100%"><tr><th><center><b> Titãs - Ana Cañas - Edi Rock e Érika Martins - Rock in Rio (2019) - 1080p - Dublado </b></center></th></tr>
-<tr><td><div align="center"><img src="https://image.tmdb.org/t/p/w500_and_h282_face/j57oUw8LIYvjOl0zs3A1A1UqwKH.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><div align="center"><img src="https://f.i.uol.com.br/fotografia/2019/09/28/15697126265d8fe9f2ee7d0_1569712626_3x2_rt.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Titãs convidam Ana Cañas, Edi Rock & Érika Martins no Rock in Rio 2019.</justify></td></tr></table>
 
 
