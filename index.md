@@ -3,6 +3,7 @@
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
 
 ## segunda, 22 de junho de 2020
+
 <table style="width:100%"><tr><th><center><b> Pericles - Nos Arcos Da Lapa - 1080p - Dublado </b></center></th></tr>
 <tr><td><div align="center"><img src="https://i.ytimg.com/vi/siceZaOK6TA/maxresdefault.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Nos Arcos da Lapa é considerado o segundo álbum ao vivo de samba e pagode do cantor e compositor brasileiro Péricles lançado em 2013 pela gravadora Som Livre no formatos CD e DVD.</justify></td></tr></table>
