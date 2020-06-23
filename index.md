@@ -56,15 +56,13 @@
 <tr><td><div align="center"><img src="https://tinyurl.com/ybc4dg53" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Blue Man Group é uma companhia de conteúdo e entretenimento fundada em 1987 por Phil Stanton, Chris Wink e Matt Goldman</justify></td></tr></table>
 
+<table style="width:100%"><tr><th><center><b> Rock in Rio - Melhores Momentos - (27-09-2019) - 1080p - Dublado </b></center></th></tr>
+<tr><td><div align="center"><img src="https://d2yfnz5to9nvdi.cloudfront.net/wp-content/uploads/2019/08/voesimples-passagens-promocionais-rock-in-rio.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>O Rock in Rio 2019 começou hoje oficialmente. (MrPikachu)</justify></td></tr></table>
+
 <table style="width:100%"><tr><th><center><b> Pericles - Nos Arcos Da Lapa - 1080p - Dublado </b></center></th></tr>
 <tr><td><div align="center"><img src="https://i.ytimg.com/vi/siceZaOK6TA/maxresdefault.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Nos Arcos da Lapa é considerado o segundo álbum ao vivo de samba e pagode do cantor e compositor brasileiro Péricles lançado em 2013 pela gravadora Som Livre no formatos CD e DVD.</justify></td></tr></table>
-
-
-<table style="width:100%"><tr><th><center><b> Rock in Rio - Melhores Momentos - (27-09-2019) - 1080p - Dublado </b></center></th></tr>
-<tr><td><div align="center"><img src="https://lh3.googleusercontent.com/proxy/0ShPjjKtx6vJlCByvA2ZZd66pkesAwEev5-wnWfMgRWLUeF_UJrPuPNuAw3Mvs0-89kwl7W7Hvmosk9feEklCgSMxADCIzBHFRFxMfo" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>O Rock in Rio 2019 começou hoje oficialmente. (MrPikachu)</justify></td></tr></table>
-
 
 <table style="width:100%"><tr><th><center><b> Roupa Nova - 30 Anos - 1080p - Dublado </b></center></th></tr>
 <tr><td><div align="center"><img src="https://i.ytimg.com/vi/dhI_tL_abrM/maxresdefault.jpg" alt="Addon Pikachu"></div></td></tr>
