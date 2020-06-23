@@ -10,7 +10,7 @@
 <tr><td><justify>MTV Unplugged - Solstício de Verão (2017). } Na terra do sol da meia-noite, os relógios marcam um pouco diferente do que em outros lugares. (MrPikachu)</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> Adele Live in New York City (2015/720p) </b></center></th></tr>
-<tr><td><div align="center"><img src="https://www.maridacaterini.it/images/2016/ottobre/12/Adele_Live_in_New_York_City.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><div align="center"><img src="https://images6.alphacoders.com/508/thumb-1920-508422.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Adele - Live in New York City Legendado Download Torrent (Estréia: 2015) Qualidade: 720p WEB-DL / Formato: MP4 / Qualidade de Áudio (MrPikachu)</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> Aerosmith Rock in Rio (2017/1080p) </b></center></th></tr>
