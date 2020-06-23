@@ -18,7 +18,7 @@
 <tr><td><justify>Aerosmith Titulo Original: Aerosmith Ano de Lançamento: 2017. (MrPikachu)</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> Alicia Keys Rock in Rio (2017/1080p) </b></center></th></tr>
-<tr><td><div align="center"><img src="https://tinyurl.com/y9yudmj2" alt="Addon Pikachu"></div></td></tr>
+<tr><td><div align="center"><img src="https://images.hdqwalls.com/download/alicia-keys-sk-1920x1200.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Alicia Keys Titulo Original: Alicia Keys Ano de Lançamento: 2017.  (MrPikachu)</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> Anthrax - Rock in Rio (2019) </b></center></th></tr>
