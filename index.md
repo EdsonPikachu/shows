@@ -62,7 +62,7 @@
 
 
 <table style="width:100%"><tr><th><center><b> Rock in Rio - Melhores Momentos - (27-09-2019) - 1080p - Dublado </b></center></th></tr>
-<tr><td><div align="center"><img src="https://marciatravessoni.com.br/wp-content/uploads/2019/09/rr.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><div align="center"><img src="https://lh3.googleusercontent.com/proxy/0ShPjjKtx6vJlCByvA2ZZd66pkesAwEev5-wnWfMgRWLUeF_UJrPuPNuAw3Mvs0-89kwl7W7Hvmosk9feEklCgSMxADCIzBHFRFxMfo" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>O Rock in Rio 2019 começou hoje oficialmente. (MrPikachu)</justify></td></tr></table>
 
 
