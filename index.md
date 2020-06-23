@@ -7,7 +7,7 @@
 
 <table style="width:100%"><tr><th><center><b> Black Eyed Peas - Rock in Rio (2019) </b></center></th></tr>
 <tr><td><div align="center"><img src="https://tinyurl.com/yarvgvb2" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>Black Eyed Peas provou neste Rock in Rio 2019 que é um grupo muito esperto. Soube sobreviver à ausência de Fergie em seu show lotado ... (MrPikachu)</justify></td></tr></table>
+<tr><td><justify>Black Eyed Peas provou neste Rock in Rio 2019 que é um grupo muito esperto. Soube sobreviver à ausência de Fergie em seu show lotado.(MrPikachu)</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> HA.MTV.Unplugged.Summer.Solstice.(2017/720p) </b></center></th></tr>
 <tr><td><div align="center"><img src="https://a-ha.com/uploads/discography/mtv-unplugged-summer-solstice-2017-1/_facebook/aha-cover-900x900px.jpg" alt="Addon Pikachu"></div></td></tr>
