@@ -39,21 +39,6 @@
 <tr><td><justify>SINOPSE:
 [COLOR white]Bee Gees - Too Much Heaven (MrPikachu)</justify></td></tr></table>
 
-<table style="width:100%"><tr><th><center><b>  Beyonce.I.Am.Yours.An.Intimate.Performance.At.Wynn.Las.Vegas (2009/720p) </b></center>https://tinyurl.com/ybok4nkq" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>SINOPSE:
-[COLOR white]Beyonce: I Am... Yours, an Intimate Performance at Wynn Las Vegas: (MrPikachu)</justify></td></tr></table>
-
-<table style="width:100%"><tr><th><center><b> Black Eyed Peas - Rock in Rio (2019) </b></center></th></tr>
-<tr><td><div align="center"><img src="https://tinyurl.com/yarvgvb2" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>SINOPSE:
-[COLOR white]Black Eyed Peas provou neste Rock in Rio 2019 que é um grupo muito esperto. Soube sobreviver à ausência de Fergie em seu show lotado ... (MrPikachu)</justify></td></tr></table>
-
-<table style="width:100%"><tr><th><center><b> Blue Man Group  </b></center></th></tr>
-<tr><td><div align="center"><img src="https://tinyurl.com/ybc4dg53
-" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>Blue Man Group é uma companhia de conteúdo e entretenimento fundada em 1987 por Phil Stanton, Chris Wink e Matt Goldman.
-</justify></td></tr></table>
-
 <table style="width:100%"><tr><th><center><b> Bon Jovi -  Rock in Rio (2017/2019) + 03 Grandes Sussesos </b></center></th></tr>
 <tr><td><div align="center"><img src="https://i.ytimg.com/vi/Hvyx0648DW8/maxresdefault.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>SINOPSE:
