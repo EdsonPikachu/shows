@@ -5,6 +5,10 @@
   
 ## Segunda, 23 de junho de 2020
 
+<table style="width:100%"><tr><th><center><b>  Beyonce.I.Am.Yours.An.Intimate.Performance.At.Wynn.Las.Vegas (2009/720p) </b></center>https://tinyurl.com/ybok4nkq" alt="Addon Pikachu"></div></td>
+</tr><tr><td><justify>Beyonce: I Am... Yours, an Intimate Performance at Wynn Las Vegas: (MrPikachu)
+ </justify></td></tr></table>
+
 <table style="width:100%"><tr><th><center><b> HA.MTV.Unplugged.Summer.Solstice.(2017/720p) </b></center></th></tr>
 <tr><td><div align="center"><img src="https://a-ha.com/uploads/discography/mtv-unplugged-summer-solstice-2017-1/_facebook/aha-cover-900x900px.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>MTV Unplugged - Solstício de Verão (2017). } Na terra do sol da meia-noite, os relógios marcam um pouco diferente do que em outros lugares. (MrPikachu)</justify></td></tr></table>
