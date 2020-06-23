@@ -5,10 +5,6 @@
   
 ## Segunda, 23 de junho de 2020
 
-<table style="width:100%"><tr><th><center><b> Blue Man Group </b></center></th></tr>
-<tr><td><div align="center"><img src="https://tinyurl.com/ybc4dg53" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>Blue Man Group é uma companhia de conteúdo e entretenimento fundada em 1987 por Phil Stanton, Chris Wink e Matt Goldman</justify></td></tr></table>
-
 <table style="width:100%"><tr><th><center><b> HA.MTV.Unplugged.Summer.Solstice.(2017/720p) </b></center></th></tr>
 <tr><td><div align="center"><img src="https://a-ha.com/uploads/discography/mtv-unplugged-summer-solstice-2017-1/_facebook/aha-cover-900x900px.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>MTV Unplugged - Solstício de Verão (2017). } Na terra do sol da meia-noite, os relógios marcam um pouco diferente do que em outros lugares. (MrPikachu)</justify></td></tr></table>
@@ -55,6 +51,10 @@
 <tr><td><div align="center"><img src="https://i.ytimg.com/vi/Hvyx0648DW8/maxresdefault.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>SINOPSE:
 [COLOR white]Os norte-americanos do Bon Jovi subiram ao Palco Mundo na sexta-feira, dia 22 de setembro, tocando seus grandes hits. (MrPikachu)</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Blue Man Group </b></center></th></tr>
+<tr><td><div align="center"><img src="https://tinyurl.com/ybc4dg53" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Blue Man Group é uma companhia de conteúdo e entretenimento fundada em 1987 por Phil Stanton, Chris Wink e Matt Goldman</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> Pericles - Nos Arcos Da Lapa - 1080p - Dublado </b></center></th></tr>
 <tr><td><div align="center"><img src="https://i.ytimg.com/vi/siceZaOK6TA/maxresdefault.jpg" alt="Addon Pikachu"></div></td></tr>
