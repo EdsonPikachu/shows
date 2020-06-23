@@ -5,9 +5,9 @@
   
 ## Segunda, 23 de junho de 2020
 
-<table style="width:100%"><tr><th><center><b> Black Eyed Peas - Rock in Rio (2019) </b></center></th></tr>
-<tr><td><div align="center"><img src="https://tinyurl.com/yarvgvb2" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>Black Eyed Peas provou neste Rock in Rio 2019 que é um grupo muito esperto. Soube sobreviver à ausência de Fergie em seu show lotado.(MrPikachu)</justify></td></tr></table>
+<table style="width:100%"><tr><th><center><b> Blue Man Group </b></center></th></tr>
+<tr><td><div align="center"><img src="https://tinyurl.com/ybc4dg53" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Blue Man Group é uma companhia de conteúdo e entretenimento fundada em 1987 por Phil Stanton, Chris Wink e Matt Goldman</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> HA.MTV.Unplugged.Summer.Solstice.(2017/720p) </b></center></th></tr>
 <tr><td><div align="center"><img src="https://a-ha.com/uploads/discography/mtv-unplugged-summer-solstice-2017-1/_facebook/aha-cover-900x900px.jpg" alt="Addon Pikachu"></div></td></tr>
@@ -37,6 +37,10 @@
 <table style="width:100%"><tr><th><center><b> Beyonce.I.Am.Yours.An.Intimate.Performance.At.Wynn.Las.Vegas (2009/720p) </b></center></th></tr>
 <tr><td><div align="center"><img src="https://tinyurl.com/ybok4nkq" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Beyonce: I Am... Yours, an Intimate Performance at Wynn Las Vegas: (MrPikachu)</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Black Eyed Peas - Rock in Rio (2019) </b></center></th></tr>
+<tr><td><div align="center"><img src="https://tinyurl.com/yarvgvb2" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Black Eyed Peas provou neste Rock in Rio 2019 que é um grupo muito esperto. Soube sobreviver à ausência de Fergie em seu show lotado.(MrPikachu)</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> Bebe Rexha - Rock in Rio (2019)[ </b></center></th></tr>
 <tr><td><div align="center"><img src="https://i.ytimg.com/vi/DuAMRrp28gc/maxresdefault.jpg" alt="Addon Pikachu"></div></td></tr>
