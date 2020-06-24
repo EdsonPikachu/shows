@@ -3,7 +3,7 @@
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
   <div align="center"><img src="https://tinyurl.com/ydahh4kf" alt="Addon Pikachu"> <img src="https://tinyurl.com/y86yjky9" alt="Addon Pikachu"></div>
   
-## Segunda, 23 de junho de 2020
+## Terça Feira, 23 de junho de 2020
 
 <table style="width:100%"><tr><th><center><b> HA.MTV.Unplugged.Summer.Solstice.(2017/720p) </b></center></th></tr>
 <tr><td><div align="center"><img src="https://a-ha.com/uploads/discography/mtv-unplugged-summer-solstice-2017-1/_facebook/aha-cover-900x900px.jpg" alt="Addon Pikachu"></div></td></tr>
