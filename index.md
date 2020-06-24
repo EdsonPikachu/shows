@@ -5,8 +5,8 @@
   
 ## Terça Feira, 23 de junho de 2020
 
-<table style="width:100%"><tr><th><center><b> HA.MTV.Unplugged.Summer.Solstice.(2017/720p) </b></center></th></tr>
-<tr><td><div align="center"><img src="https://a-ha.com/uploads/discography/mtv-unplugged-summer-solstice-2017-1/_facebook/aha-cover-900x900px.jpg" alt="Addon Pikachu"></div></td></tr>
+<table style="width:100%"><tr><th><center><b> AHA.MTV.Unplugged.Summer.Solstice.(2017/720p) </b></center></th></tr>
+<tr><td><div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUi5qGY3KqxLEkuA97zmUcXGwlBPZq-1OK6A&usqp=CAU" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>MTV Unplugged - Solstício de Verão (2017). } Na terra do sol da meia-noite, os relógios marcam um pouco diferente do que em outros lugares. (MrPikachu)</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> Adele Live in New York City (2015/720p) </b></center></th></tr>
@@ -123,9 +123,9 @@
 <tr><td><div align="center"><img src="https://i.ytimg.com/vi/bodZhDblJqE/maxresdefault.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>DVD Zezé Di Camargo & Luciano - 20 Anos de Sucesso (Ao Vivo)</justify></td></tr></table>
 
-<a href="https://bit.ly/pikachufull">
+<div align="center"><a href="https://bit.ly/pikachufull">
 <img src="https://tinyurl.com/y9zk36eq" alt="pikachu">
-</a>
+</a></div>
 <a href="https://bit.ly/novidadedocs">
 <img src="https://tinyurl.com/y9xs5l4t" alt="pikachu">
 </a>
@@ -150,15 +150,15 @@
 <a href="https://bit.ly/novidadeseries">
 <img src="https://tinyurl.com/y8pbauft" alt="pikachu">
 </a>
-<a href="https://bit.ly/novidadelives">
-<img src="https://tinyurl.com/y8ehpr7u" alt="pikachu">
+<a href="https://bit.ly/novidadesfilmes">
+<img src="https://tinyurl.com/ydewsb4q" alt="pikachu">
 </a>
 <a href="https://bit.ly/novidadeTV">
 <img src="https://tinyurl.com/ydbcnj3f" alt="pikachu">
 </a>
-<a href="https://bit.ly/pikachufull">
+<div align="center"><a href="https://bit.ly/pikachufull">
 <img src="https://tinyurl.com/y72vpx8n" alt="pikachu">
-</a>
+</a></div>
 
 
 <!--Copias não serão toleradas-->
