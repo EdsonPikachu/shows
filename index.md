@@ -5,7 +5,9 @@
   
 ## Sábado, 27 de junho de 2020
 
-
+<table style="width:100%"><tr><th><center><b> BTS 08 (DVDS) 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://i0.statig.com.br/bancodeimagens/2k/yg/20/2kyg200m3c0dewxd0fk6vp74c.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  BTS Live Trilogy EPISODE III THE WINGS TOUR in Seoul: DISCO 1: Parte 1</justify></td></tr></table>
  
 ## Terça Feira, 23 de junho de 2020
 
