@@ -90,7 +90,7 @@
 <tr><td><justify>Sinopse:  epultura no Rock in Rio 2019; FOTOS. Banda abriu palco Mundo nesta sexta (4), dia dedicado ao Metal.</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> Shania Twain.Live.in.Chicago - 1080p  </b></center></th></tr>
-<tr><td><div align="center"><img src="https://mcdn.wallpapersafari.com/medium/55/98/Q9P53M.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><div align="center"><img src="https://cdn.suwalls.com/wallpapers/celebrities/shania-twain-in-a-gray-suit-48500-1920x1080.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Sinopse:  Traduzido do inglês-Acima! Live in Chicago é o terceiro álbum de vídeo ao vivo da cantora canadense Shania Twain. Dirigido e produzido por Beth McCarthy-Miller, o concerto foi realizado e filmado em 27 de julho de 2003 em Hutchinson Field, no lado sul de Grant Park, em Chicago, Illinois; mais de 50.000 pessoas compareceram.</justify></td></tr></table>
  
 ## Terça Feira, 23 de junho de 2020
