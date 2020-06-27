@@ -8,6 +8,90 @@
 <table style="width:100%"><tr><th><center><b> BTS 08 (DVDS) 1080p </b></center></th></tr>
 <tr><td><div align="center"><img src="https://i0.statig.com.br/bancodeimagens/2k/yg/20/2kyg200m3c0dewxd0fk6vp74c.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Sinopse:  BTS Live Trilogy EPISODE III THE WINGS TOUR in Seoul: DISCO 1: Parte 1</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Carpenters -  Close To You - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://images.metadata.sky.com/pd-image/f499aa84-189d-4dbc-9009-2a890e2bb24e/16-9" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Close To You (tradução) letra: Songwriters: Bacharach, Burt; David, Hal; Por que os pássaros aparecem de repente Toda vez que você está por perto? Assim como eu, eles desejam estar perto de você .</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Chis Botti in Boston - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://s1.dmcdn.net/v/Qhb761TFDhjiw310C/x1080" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Chris Botti “in Boston”, simplesmente um show memorável! O show</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> ColDPlay - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://images6.alphacoders.com/541/541190.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Coldplay é uma banda britânica de rock alternativo fundada em 1996 na Inglaterra pelo vocalista e pianista Chris Martin e o guitarrista Jonny Buckland.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Cyndi Lauper  -  Front & Center Presents 2014 1080i Blu-ray AVC LPCM 2 0-HD </b></center></th></tr>
+<tr><td><div align="center"><img src="https://i2.wp.com/www.universoaa.com.br/wp-content/uploads/2015/08/lauper-cyndi-53fa0bddcff9f.jpg?ssl=1" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Cyndi Lauper - Front & Center - Blu ray.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Dave Matthews Band - Rock in Rio (2019) - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://mcdn.wallpapersafari.com/medium/93/0/I13cK6.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Rock in Rio 2019: Dave Matthews Band faz show protocolar no Palco Mundo.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Dire Straits - On The Night 1993 + 02 Sussesos - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://wallpapercave.com/wp/wp3097484.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  On the Night foi o segundo álbum ao vivo da extinta banda de rock inglesa Dire Straits, lançado em 1993. Lançado na turnê de suporte de On Every Street não teve o impacto do Alchemy mas, contudo, deixaram satisfeitos os fãs da memorável banda.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Divas - (03 DVDS) 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://media-manager.noticiasaominuto.com.br/1920/naom_5a609cc133e0c.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  VH1 Divas ", voltou a prestar homenagem às cidades onde a alma deu à luz os clássicos mais poderosos da música e inspirou os dias de hoje.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Double You  -  Ao Vivo no Brasil -  LimeNight - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://i.pinimg.com/originals/b3/63/e2/b363e2e923fa53e8ce52f262ca45a650.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Double You Live DVD ( Ao Vivo no Brasil LimeNight ).</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Ego Kill Talent - Rock in Rio 2019 - 1080p</b></center></th></tr>
+<tr><td><div align="center"><img src="https://1.bp.blogspot.com/-JcHypauGmVw/XZZMTddu03I/AAAAAAAAcbE/G6ixX8P0LMU9I4LYuFYsh54nsls9KX2wwCLcBGAsYHQ/s1600/Ego%2BKill%2BTalent%2B-%2B2019-09-28%2B-%2BRock%2BIn%2BRio%2B-%2BHDTV1080i.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Ego Kill Talent foi a encarregada de abrir hoje a programação de shows no palco Sunset no Rock in Rio 2019.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Elton John 60 Live at Madison Square Garden - (02 DVDS) + 02 Sussesos 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://images2.alphacoders.com/799/thumb-1920-799799.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Elton 60 - Live at Madison Square Garden é um lançamento em DVD de 2 discos, estrelado por Elton John, apresentando alguns de seus maiores sucessos e até vários favoritos dos fãs. O lançamento traz aparições no palco dos comediantes Robin Williams e Whoopi Goldberg, além de comentários especiais para a platéia pelo letrista Bernie Taupin.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> ericclapton - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://exatanews.com.br/imagens/conteudos/grande/20180110_115352_476951.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Eric Clapton - Wonderful Tonight (Live HD 1080p). "Não importa o quanto essa nossa vida nos obriga a ser sérios... Todos nós procuramos alguém para Amar.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Fifth Harmony - That's My Girl (2016 American Music Awards) - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://cdn.hipwallpaper.com/i/59/96/xdFjom.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Fifth Harmony - That's my girl (American Music Awards 2016).</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> George Michael's - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://wallpapercave.com/wp/wp2099390.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Live in London é uma gravação ao vivo dos dois últimos shows de George Michael em Earls Court, em Londres, nos dias 24 e 25 de agosto de 2008, como parte de sua turnê 25 Live.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Guns N Roses - Rock in Rio 2017 </b></center></th></tr>
+<tr><td><div align="center"><img src="https://images4.alphacoders.com/180/180056.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Show do Guns N' Roses é eleito melhor do 2º fim de semana do Rock in Rio 2017</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Iron Maiden - Rock in Rio 2019 - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://images6.alphacoders.com/415/thumb-1920-415853.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Iron Maiden é atração principal do dia do metal no Rock in Rio 2019 . (MrPikachu)</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Michael Jackson (08 Dvds)  - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://i.pinimg.com/originals/92/18/af/9218af4904c15eb585e2e902129325f3.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Michael Joseph Jackson foi um cantor, compositor e dançarino estadunidense. Apelidado de "Rei do Pop", ele é considerado uma das figuras culturais mais importantes e influentes de todos os tempos e um dos maiores artistas da história da música, além de ter sido um grande humanitário.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Pink Floyd - Live at Pompeii 1972 - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://storage.googleapis.com/reverb-img/1551392556640-glados.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:   Pink Floyd: Live at Pompeii é um filme de 1972, com Pink Floyd tocando seis músicas no Piazza Anfiteatro em Pompeia.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Red Hot Chili Peppers - Rock in Rio 2017 1080p HDTV x264 - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://i.pinimg.com/originals/5e/d2/7c/5ed27c1a8d29fb01be6ea731d8c9ba24.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Red Hot Chili Peppers, fazem show no Rock in Rio 2017</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Scorpions (05 Shows </b></center></th></tr>
+<tr><td><div align="center"><img src="https://vistapointe.net/images/scorpions-3.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  SHOW COMPLETO DO SCORPIONS NO ROCK IN RIO 2019</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Sepultura - Rock in Rio 2019 - 1080p </b></center></th></tr>
+<tr><td><div align="center"><img src="https://www.wallpaperup.com/uploads/wallpapers/2013/04/11/74109/e08f3b94e8d3cdcac462c87e5dfb3c65-700.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  epultura no Rock in Rio 2019; FOTOS. Banda abriu palco Mundo nesta sexta (4), dia dedicado ao Metal.</justify></td></tr></table>
+
+<table style="width:100%"><tr><th><center><b> Shania Twain.Live.in.Chicago - 1080p  </b></center></th></tr>
+<tr><td><div align="center"><img src="https://s2.best-wallpaper.net/wallpaper/1920x1080/1209/Shania-Twain-02_1920x1080.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Traduzido do inglês-Acima! Live in Chicago é o terceiro álbum de vídeo ao vivo da cantora canadense Shania Twain. Dirigido e produzido por Beth McCarthy-Miller, o concerto foi realizado e filmado em 27 de julho de 2003 em Hutchinson Field, no lado sul de Grant Park, em Chicago, Illinois; mais de 50.000 pessoas compareceram.</justify></td></tr></table>
  
 ## Terça Feira, 23 de junho de 2020
 
