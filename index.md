@@ -6,7 +6,7 @@
 ## Terça Feira, 23 de junho de 2020
 
 <table style="width:100%"><tr><th><center><b> AHA.MTV.Unplugged.Summer.Solstice.(2017/720p) </b></center></th></tr>
-<tr><td><div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUi5qGY3KqxLEkuA97zmUcXGwlBPZq-1OK6A&usqp=CAU" alt="Addon Pikachu"></div></td></tr>
+<tr><td><div align="center"><img src="https://i.pinimg.com/originals/c8/e8/ce/c8e8ced33f2646c1b4a947440eab0f61.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>MTV Unplugged - Solstício de Verão (2017). } Na terra do sol da meia-noite, os relógios marcam um pouco diferente do que em outros lugares. (MrPikachu)</justify></td></tr></table>
 
 <table style="width:100%"><tr><th><center><b> Adele Live in New York City (2015/720p) </b></center></th></tr>
