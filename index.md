@@ -3,7 +3,7 @@
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
   <div align="center"><img src="https://tinyurl.com/ydahh4kf" alt="Addon Pikachu"> <img src="https://tinyurl.com/y86yjky9" alt="Addon Pikachu"></div> ## Terça Feira, 23 de junho
   
-## Sábado, 27 de junho de 2020
+##  Sábado, 27 de junho de 2020
 
 <table style="width:100%"><tr><th><center><b> BTS 08 (DVDS) 1080p </b></center></th></tr>
 <tr><td><div align="center"><img src="https://i0.statig.com.br/bancodeimagens/2k/yg/20/2kyg200m3c0dewxd0fk6vp74c.jpg" alt="Addon Pikachu"></div></td></tr>
