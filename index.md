@@ -89,7 +89,7 @@
 <tr><td><div align="center"><img src="https://cdn.suwalls.com/wallpapers/celebrities/shania-twain-in-a-gray-suit-48500-1920x1080.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Sinopse:  Traduzido do inglês-Acima! Live in Chicago é o terceiro álbum de vídeo ao vivo da cantora canadense Shania Twain. Dirigido e produzido por Beth McCarthy-Miller, o concerto foi realizado e filmado em 27 de julho de 2003 em Hutchinson Field, no lado sul de Grant Park, em Chicago, Illinois; mais de 50.000 pessoas compareceram.</justify></td></tr></table>
  
-## Terça Feira, 23 de junho de 2020
+##  Terça Feira, 23 de junho de 2020
 
 <table style="width:100%"><tr><th><center><b> AHA.MTV.Unplugged.Summer.Solstice.(2017/720p) </b></center></th></tr>
 <tr><td><div align="center"><img src="https://i.pinimg.com/originals/c8/e8/ce/c8e8ced33f2646c1b4a947440eab0f61.jpg" alt="Addon Pikachu"></div></td></tr>
