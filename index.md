@@ -49,10 +49,6 @@
 <tr><td><div align="center"><img src="https://exatanews.com.br/imagens/conteudos/grande/20180110_115352_476951.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Sinopse:  Eric Clapton - Wonderful Tonight (Live HD 1080p). "Não importa o quanto essa nossa vida nos obriga a ser sérios... Todos nós procuramos alguém para Amar.</justify></td></tr></table>
 
-<table style="width:100%"><tr><th><center><b> Fifth Harmony - That's My Girl (2016 American Music Awards) - 1080p </b></center></th></tr>
-<tr><td><div align="center"><img src="https://cdn.hipwallpaper.com/i/59/96/xdFjom.jpg" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>Sinopse:  Fifth Harmony - That's my girl (American Music Awards 2016).</justify></td></tr></table>
-
 <table style="width:100%"><tr><th><center><b> George Michael's - 1080p </b></center></th></tr>
 <tr><td><div align="center"><img src="https://wallpapercave.com/wp/wp2099390.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Sinopse:  Live in London é uma gravação ao vivo dos dois últimos shows de George Michael em Earls Court, em Londres, nos dias 24 e 25 de agosto de 2008, como parte de sua turnê 25 Live.</justify></td></tr></table>
