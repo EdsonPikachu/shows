@@ -25,10 +25,6 @@
 <tr><td><div align="center"><img src="https://i2.wp.com/www.universoaa.com.br/wp-content/uploads/2015/08/lauper-cyndi-53fa0bddcff9f.jpg?ssl=1" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Sinopse:  Cyndi Lauper - Front & Center - Blu ray.</justify></td></tr></table>
 
-<table style="width:100%"><tr><th><center><b> Dave Matthews Band - Rock in Rio (2019) - 1080p </b></center></th></tr>
-<tr><td><div align="center"><img src="https://mcdn.wallpapersafari.com/medium/93/0/I13cK6.jpg" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>Sinopse:  Rock in Rio 2019: Dave Matthews Band faz show protocolar no Palco Mundo.</justify></td></tr></table>
-
 <table style="width:100%"><tr><th><center><b> Dire Straits - On The Night 1993 + 02 Sussesos - 1080p </b></center></th></tr>
 <tr><td><div align="center"><img src="https://wallpapercave.com/wp/wp3097484.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Sinopse:  On the Night foi o segundo álbum ao vivo da extinta banda de rock inglesa Dire Straits, lançado em 1993. Lançado na turnê de suporte de On Every Street não teve o impacto do Alchemy mas, contudo, deixaram satisfeitos os fãs da memorável banda.</justify></td></tr></table>
