@@ -1,5 +1,48 @@
 <!--Copias não serão toleradas-->
 
+
+
+ 
+<html>
+<head>
+<title>Pedidos pikachu</title>
+<meta content="initial-scale=1, user-scalable=no, maximum-scale=1" name="viewport">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<style>
+* { font-family: arial;}
+.divmeio { max-width:600px; width:96%; padding: 5px 2%; display:table; margin: 0 auto; }
+.divmeio h1 { font-size:14pt; text-align:center; color:#333333; margin:0; margin-top:40px; margin-bottom:40px;}
+.divmeio h2 { font-size:12pt; text-align:center; color:red; margin:0; font-weight:500; }
+.divmeio1 { float:left; width:48%; padding: 10px 1%; }
+.divmeio1 h6 { font-size: 11pt; font-weight: 500; margin:0px; margin-top: 8px; }
+.divmeio1 .input_painel { border:1px solid #cccccc; height: 30px; margin: 0px; margin-bottom:15px; width:94%; }
+.titulo { background: #eeeeee; color:#333333; font-size:12pt; font-weight:700; display:block;; padding: 10px 2%; }
+.botao { display:block; padding: 15px 10%; background:#2e6772; color: #ffffff; border:none; margin: 0 auto; }
+.botao_fechar { display:table; padding: 10px 10%; background:red; color: #ffffff; border:none; margin: 0 auto; text-decoration:none; }
+
+@media screen and (max-width: 300px) {
+.divmeio1 { float:none; width:100%; }	
+}
+</style></head><body>
+<form action="//sitegerenciavel.org/12/enviarmusica" method="post" name="do pedido">
+<div class="divmeio">
+<span class="titulo">Pedidos pikachu</span>
+<div class="divmeio1">
+<h6>Seu Nome:</h6>
+<input type="text" size="30" class="input_painel" name="nome">
+<h6>Email:</h6>
+<input type="text" size="30" class="input_painel" name="email">
+</div><div class="divmeio1">
+<h6>Cidade:</h6>
+<input type="text" size="30" class="input_painel" name="cidade">
+<h6>Nome da Música:</h6>
+<input type="text" size="30" class="input_painel" name="pedido">
+</div></div>
+<input type="submit" class="botao" value="ENVIAR">
+</form> <!-- FECHA GERAL -->
+</body></html>
+
   [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  [![HitCount](http://hits.dwyl.com/novidadespikachu/filmes.svg)](http://hits.dwyl.com/novidadespikachu/filmes)
  <div align="center"><img src="https://tinyurl.com/ydahh4kf" alt="Addon Pikachu"> <img src="https://tinyurl.com/y86yjky9" alt="Addon Pikachu"></div> 
   
